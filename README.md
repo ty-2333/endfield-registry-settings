@@ -22,7 +22,6 @@
 | `edit_force_registry.bat` | 修改 `force_registry.bat` 的预设参数 |
 | `set_game_settings.ps1` | 核心引擎（被上面三个 bat 调用） |
 | `edit_force_registry.ps1` | 配置编辑器逻辑 |
-| `diag_registry.bat` | 诊断工具，查看当前注册表和配置文件状态 |
 
 ## 使用方法
 
